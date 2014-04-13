@@ -115,3 +115,5 @@ DirectoryIndex index.php
 
 # $Id: .htaccess,v 1.90.2.5 2010/02/02 07:25:22 dries Exp $
 
+RewriteCond %{HTTP_HOST} www.drupal-consultants.in [NC]
+RewriteRule ^(.*)$ http://drupal-consultants.in/$1 [L,R=301]

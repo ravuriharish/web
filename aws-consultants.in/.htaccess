@@ -141,3 +141,7 @@ DirectoryIndex index.php index.html index.htm
     </FilesMatch>
   </IfModule>
 </IfModule>
+
+
+RewriteCond %{HTTP_HOST} www.aws-consultants.in [NC]
+RewriteRule ^(.*)$ http://aws-consultants.in/$1 [L,R=301]
