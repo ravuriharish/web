@@ -1,0 +1,43 @@
+# On branch master
+# Changes not staged for commit:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   ../aws-consultants.in/.htaccess
+#	modified:   .htaccess
+#	deleted:    cache/normal/54.255.137.39/.htaccess
+#	deleted:    cache/normal/54.255.137.39/_.html
+#	deleted:    cache/normal/aws-consultants.in/_.html
+#	deleted:    cache/normal/drupal-consultants.in/.htaccess
+#	deleted:    cache/normal/drupal-consultants.in/_.html
+#	deleted:    cache/normal/web-consultants.in/_.html
+#	deleted:    cache/normal/www.drupal-consultants.in/.htaccess
+#	modified:   sites/default/files/xmlsitemap/NXhscRe0440PFpI5dSznEVgmauL25KojD7u4e9aZwOM/1.xml
+#	modified:   sites/default/settings.php
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	../aws-consultants.in/sites/all/libraries/
+#	../aws-consultants.in/sites/all/modules/fbconnect-7.x-2.0-beta4.tar.gz
+#	../aws-consultants.in/sites/all/modules/httprl-7.x-1.14.tar.gz
+#	../aws-consultants.in/sites/all/modules/httprl/
+#	../aws-consultants.in/sites/all/modules/hybridauth/
+#	../aws-consultants.in/sites/all/themes/corporateclean-7.x-2.2.tar.gz
+#	../aws-consultants.in/sites/all/themes/corporateclean/
+#	.gitignore
+#	sites/all/libraries/
+#	sites/all/modules/fbconnect-7.x-2.0-beta4.tar.gz
+#	sites/all/modules/httprl-7.x-1.14.tar.gz
+#	sites/all/modules/httprl/
+#	sites/all/modules/hybridauth/
+#	sites/all/themes/danland/
+#	../out
+#	../web-consultants.in/cache/normal/54.255.137.39/
+#	../web-consultants.in/cache/normal/aws-consultants.in/
+#	../web-consultants.in/cache/normal/drupal-consultants.in/
+#	../web-consultants.in/cache/normal/web-consultants.in/.htaccess
+#	../web-consultants.in/cache/normal/www.drupal-consultants.in/
+#	../web-consultants.in/sites/all/themes/corporateclean-7.x-2.2.tar.gz
+#	../web-consultants.in/sites/all/themes/corporateclean/
+no changes added to commit (use "git add" and/or "git commit -a")
