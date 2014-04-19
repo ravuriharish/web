@@ -104,7 +104,6 @@
 			<a id="main-content"></a>
 			<?php if ($page['content_top']) : ?><div class="content-top"><?php print render ($page['content_top']); ?></div>
 			<?php endif; ?>
-			<?php if (!$is_front) print $breadcrumb; ?>
 			<?php if ($show_messages) { print $messages; }; ?>
       		<?php print render($title_prefix); ?>
       			<?php if ($title): ?>
