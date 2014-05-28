@@ -1,0 +1,12 @@
+.logo IMG {
+height: 100px;
+}
+
+#menu, #nav, #rounded-menu-right	{
+background:None;
+background-color:#06b9cd
+}
+
+a:visited	{
+color:#06b9cd
+}
