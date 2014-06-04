@@ -2,4 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="http://drupal-consultants.in/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>http://drupal-consultants.in/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://drupal-consultants.in/services</loc><lastmod>2014-06-04T16:29Z</lastmod><changefreq>always</changefreq></url>
+<url><loc>http://drupal-consultants.in/our-work</loc><lastmod>2014-06-04T16:29Z</lastmod><changefreq>always</changefreq></url>
+<url><loc>http://drupal-consultants.in/resources</loc><lastmod>2014-06-04T16:29Z</lastmod><changefreq>always</changefreq></url>
 </urlset>
